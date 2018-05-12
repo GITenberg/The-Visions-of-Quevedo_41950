@@ -1,0 +1,40 @@
+_repo: The-Visions-of-Quevedo_41950
+_version: 0.1.0
+alternative_title: Los sueños. English
+contributor:
+  translator:
+    agent_name: Elliot, William
+    birthdate: 1803
+    gutenberg_agent_id: '41449'
+    url: http://www.gutenberg.org/2009/agents/41449
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quevedo, Francisco de
+    aliases:
+    - Villegas, Francisco Gomez de Quevedo y
+    - Villegas, Francisco Gómez de Quevedo y
+    - Gómez de Quevedo y Villegas, Francisco
+    - De Quevedo y Villegas, Francisco Gómez
+    birthdate: 1580
+    deathdate: 1645
+    gutenberg_agent_id: '35792'
+    url: http://www.gutenberg.org/2009/agents/35792
+    wikipedia: http://en.wikipedia.org/wiki/Francisco_de_Quevedo
+description: ''
+gutenberg_issued: '2013-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Satire'
+title: The Visions of Quevedo
+url: http://www.gutenberg.org/ebooks/41950
