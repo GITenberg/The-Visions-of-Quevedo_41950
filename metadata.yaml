@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35792
     wikipedia: http://en.wikipedia.org/wiki/Francisco_de_Quevedo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41950#The-Visions-of-Quevedo
 gutenberg_issued: '2013-01-30'
 gutenberg_type: Text
 identifiers:
